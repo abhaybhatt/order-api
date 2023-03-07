@@ -30,5 +30,3 @@ mongoose
 app.listen(port, () => {
     console.log(`app running at ${port}`)
 });
-
-module.exports = app
